@@ -1,0 +1,23 @@
+/* mari kita mulai */
+
+* {
+    Align-content: center;
+}`
+.body {
+    align-content: center;
+}
+.form-elements {
+    center: 0;
+    background: none;
+    border: 8px solid #26d48c;
+    border-radius: 30px;
+    width: auto-center;
+    padding-top: 5px;
+    padding-bottom: auto;
+    padding-left: 15px;
+    padding-right: auto;
+}
+
+.form-elements .content-head {
+    border: #26d48c;
+}
